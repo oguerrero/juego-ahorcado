@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/juego-ahorcado/precache-manifest.a5f9d360c4d35a68298aa37048f35734.js"
+  "/juego-ahorcado/precache-manifest.819ae3c1b147a84a82e89d5708bfeb03.js"
 );
 
 workbox.clientsClaim();

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a8715effc8ae979ef785",
+    "revision": "05bd26002d866547d4b9",
     "url": "/juego-ahorcado/static/css/main.04c54c85.chunk.css"
   },
   {
-    "revision": "a8715effc8ae979ef785",
-    "url": "/juego-ahorcado/static/js/main.ed8351d6.chunk.js"
+    "revision": "05bd26002d866547d4b9",
+    "url": "/juego-ahorcado/static/js/main.8fb386e8.chunk.js"
   },
   {
     "revision": "5d62cdd0f3d5a53992a5",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/juego-ahorcado/static/js/3.5526bd81.chunk.js"
   },
   {
-    "revision": "bdb203f914eab8fa94f5ecd39a6a36ff",
+    "revision": "0880ae9b58a0ffe1855093400954e791",
     "url": "/juego-ahorcado/index.html"
   }
 ];
